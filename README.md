@@ -1,7 +1,11 @@
-repository-name
-# Repository Name
+studiobinder
+# StudioBinder
 
-Based on "ABC" at https://www.abc.com/
+> Web-based Video, TV & Film Production Management Software. 
+
+Based on "StudioBinder" at https://www.studiobinder.com/
+
+Based on "StudioBinder on YouTube" at https://youtube.com/c/StudioBinder
 
 ## 100 - Introduction
 
